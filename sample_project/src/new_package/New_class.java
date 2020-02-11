@@ -29,6 +29,10 @@ public class New_class
 		 */
 		new TouchActions(driver).singleTap(Exp_Sal).perform();
 		
+		/*
+		 * Note:--> By creation of object for TouchActions, We can
+		 * 			access mouse,keyboard,touch interaction methods.
+		 */
 		
 	}
 
